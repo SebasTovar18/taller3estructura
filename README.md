@@ -34,7 +34,11 @@ Empleado B2
 Departamento B
 Director
 
+
 DIFERENCIAS:
 Nuestros recorridos recorren el arbol de diferente manera el primero iniciando por la raiz y terminando por la derecha (Preorden)
 El segundo iniciando por la izquierda y terminando por la raiz (postorden) 
 para que funcionaria? el primero funciona perfectamente para indicar la base del arbol y sus hojas, el segundo se enfoca mas en mostrarnos primero las hojas y despues la raiz
+
+# Parte 3
+En esta parte nos encontramos un modelo mucho mas sencillo usando solo el preorden perfectamente indicando una jerarquia si lo queremos ver de esa manera ya que empezamos con lo mas importante el director
